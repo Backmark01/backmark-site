@@ -49,6 +49,8 @@ This repository is the public support, privacy, terms, and product-information s
 - Before committing, inspect the diff and exclude `.DS_Store`, secrets, local configuration, build output, temporary files, and unpublished private media.
 - Before pushing, fetch and inspect ahead/behind state. Never force-push or overwrite remote work.
 - Keep website commits separate from app commits.
+- Commit messages plainly state what was fixed or changed. Do not add `Co-Authored-By`, `Claude-Session`, or other assistant attribution trailers.
+- Commit as the Backmark01 GitHub identity: `Md Saliha <backmarksupport@gmail.com>`. Check `git config user.email` in this checkout before committing; never fall back to another global identity.
 - A request to push both repositories means independently verify and push this site and `https://github.com/Backmark01/backmark.git`, then report both commit IDs.
 - Confirm links, HTML/CSS validity, responsive presentation, and `git diff --check` before publication.
 
