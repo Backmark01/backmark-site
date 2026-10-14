@@ -19,8 +19,8 @@ This repository is the public support, privacy, terms, and product-information s
 - Backmark does not log into, scrape, download from, or automate third-party services.
 - User-deliberately captured screenshots and shared attachments may be stored privately to provide previews/attachments and are deleted with their Memory.
 - Backmark is a one-time paid app with no subscription or in-app paywall.
-- Current Board tools are `Ask this Board` and `Create cover`/`Change cover`. Translation was intentionally removed.
-- `Ask this Board` uses only selected Memories. Image Playground is system-controlled and may reject or vary generated images.
+- Current Board tools are `Board studio` (Ask and Generate tabs) and `Create cover`/`Change cover`. Translation was intentionally removed.
+- Board studio uses only the Board's Memories and never adds facts from the internet. Image Playground is system-controlled and may reject or vary generated images.
 - The Share Extension offers `Library` and existing Board destinations before saving.
 - Data export remains local and user-controlled through the iOS share sheet. Original links must remain available when supplied by iOS.
 
