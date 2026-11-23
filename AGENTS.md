@@ -19,8 +19,10 @@ This repository is the public support, privacy, terms, and product-information s
 - Backmark does not log into, scrape, download from, or automate third-party services.
 - User-deliberately captured screenshots and shared attachments may be stored privately to provide previews/attachments and are deleted with their Memory.
 - Backmark is a one-time paid app with no subscription or in-app paywall.
-- Current Board tools are `Board studio` (Ask and Generate tabs) and `Create cover`/`Change cover`. Translation was intentionally removed.
-- Board studio uses only the Board's Memories and never adds facts from the internet. Image Playground is system-controlled and may reject or vary generated images.
+- From 2.0, Boards are plans with a purpose (trip days, cook mode, notes, Mark as done). Plan tools are `Ask this plan` (a chat that answers only from the plan's saves and notes; Board studio's Generate was removed in 2.0) and `Add a cover`/`Change cover`. Translation was intentionally removed.
+- Ask never adds facts from the internet. Image Playground is system-controlled and may reject or vary generated images.
+- Voice notes use the microphone only while recording and are written down with Apple's on-device speech recognition. Siri and Search is off until the person turns it on; only titles, summaries, topics, places and plan names are indexed. The spoken search phrase is "Search Backmark" (Siri then asks what to look for), never "Search Backmark for …".
+- 2.0 site (published 2026-11-23 before the 2.0 App Store release, user decision): the hero is the animated App Store header v5 cropped to its illustration (`docs/backmark-hero.mp4`, muted loop, paused under Reduce Motion), the intro video is the 27 s launch reel (`docs/backmark-2-0.mp4` with `backmark-2-0-poster.jpg`), and "New in 2.0" uses animated SVG illustration cards (CSS motion, scroll-in with a safety timer, all motion off under Reduce Motion).
 - The Share Extension offers `Library` and existing Board destinations before saving.
 - Data export remains local and user-controlled through the iOS share sheet. Original links must remain available when supplied by iOS.
 
